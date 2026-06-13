@@ -1,0 +1,13 @@
+out/
+target/
+
+sources.txt
+
+*.class
+
+.project
+.settings/
+
+.idea/
+*.iml
+.vscode/
